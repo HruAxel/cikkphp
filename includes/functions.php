@@ -185,5 +185,5 @@ function getContent($url, $connection)
 
 function getFooter()
 {
-  return '<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>';
+  return '<script src="../cikkphp/scripts/user_script.js"></script>';
 }
